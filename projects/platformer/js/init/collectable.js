@@ -34,7 +34,7 @@
         let createCollectable = collectable.create;
 
         ////////////////////////////////////////////////////////////////////////
-        // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
+        // ALL  YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
         createCollectable(type.steve, 200, 170, 6, 0.7);
@@ -42,6 +42,9 @@
         createCollectable(type.steve, 780, 330, 6, 0.7);
         createCollectable(type.steve, 220, 450, 6, 0.7);
         createCollectable(type.steve, 430, 200, 6, 0.7);
+        createCollectable(type.steve, 780, 160, 6, 0.7);
+
+
 
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
